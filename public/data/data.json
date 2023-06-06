@@ -1,0 +1,34 @@
+{
+    "about": {
+      "title": "Acerca de nosotros",
+      "description": "Somos una empresa especializada en...",
+      "image": "about.jpg"
+    },
+    "services": [
+      {
+        "id": 1,
+        "title": "Servicio 1",
+        "description": "Descripción del servicio 1",
+        "icon": "service1.png"
+      },
+      {
+        "id": 2,
+        "title": "Servicio 2",
+        "description": "Descripción del servicio 2",
+        "icon": "service2.png"
+      },
+      {
+        "id": 3,
+        "title": "Servicio 3",
+        "description": "Descripción del servicio 3",
+        "icon": "service3.png"
+      }
+    ],
+    "contact": {
+      "email": "info@example.com",
+      "phone": "+123456789",
+      "address": "Calle Principal 123, Ciudad",
+      "map": "https://www.google.com/maps/embed?..."
+    }
+  }
+  
